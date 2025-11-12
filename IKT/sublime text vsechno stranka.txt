@@ -1,0 +1,303 @@
+index 
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zlaté Dary — Domů</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <img class="logo" src="images/logo.svg" alt="Logo">
+      <strong>Zlaté Dary</strong>
+    </div>
+    <nav><ul>
+      <li><a href="index.html">Domů</a></li>
+      <li><a href="produkty.html">Produkty</a></li>
+      <li><a href="investice.html">Investice</a></li>
+      <li><a href="o-nas.html">O&nbsp;nás</a></li>
+      <li><a href="kontakt.html">Kontakt</a></li>
+    </ul></nav>
+  </header>
+
+  <section class="hero">
+    <h1>Investujte do zlata — </h1>
+    <p><a class="btn" href="produkty.html">Prohlédnout produkty</a> <a class="btn-outline" href="investice.html">Jak investovat</a></p>
+  </section>
+
+  <main>
+    <article class="card">
+      <p>Zlaté Dary jsou fiktivní firma, která ukazuje, jak může vypadat jednoduchý školní web. Na této stránce najdete přehled produktů, základní informace a důležité odkazy. Cílem je splnit všechny body zadání a udržet přitom čistý kód bez zbytečných mezer. Text je psaný srozumitelně a věty jsou krátké, aby se dobře četly. Vše je statické a funguje přímo v prohlížeči bez potřeby serveru.</p>
+      <p>Zlato lidé kupují kvůli stabilitě a uchování hodnoty. Investice do kovu dává smysl, když chcete část úspor ochránit před inflací. Na webu proto vidíte slitky, mince a stručná vysvětlení k nákupu. V případě potřeby jsou k dispozici kontakty a odkazy na zdroje. Následující podstránky rozvádějí téma a propojují se vzájemnými odkazy.</p>
+
+      <div class="grid grid-3">
+        <figure class="card"><img src="images/hero.svg" alt="Zlatý banner"><figcaption>Ilustrační banner</figcaption></figure>
+        <figure class="card"><img src="images/coin.svg" alt="Mince"><figcaption>Zlatá mince</figcaption></figure>
+        <figure class="card"><img src="images/hero.svg" alt="Slitek"><figcaption>Slitek — ilustrace</figcaption></figure>
+      </div>
+
+      <ul>
+        <li><a href="produkty.html">Přejít na produkty</a></li>
+        <li><a href="investice.html">Zjistit, jak investovat</a></li>
+        <li><a href="o-nas.html">Přečíst si o firmě</a></li>
+      </ul>
+    </article>
+
+    <aside class="card">
+      <h3>Rychlá navigace</h3>
+      <ul>
+        <li><a href="produkty.html">Investiční produkty</a></li>
+        <li><a href="investice.html">Jak investovat</a></li>
+        <li><a href="kontakt.html">Kontakt a video</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>© 2025 Zlaté Dary </footer>
+</div>
+</body>
+</html>
+
+
+
+
+investice
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zlaté Dary — Investice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><img class="logo" src="images/logo.svg" alt="Logo"><strong>Zlaté Dary</strong></div>
+    <nav><ul>
+      <li><a href="index.html">Domů</a></li><li><a href="produkty.html">Produkty</a></li><li><a href="investice.html">Investice</a></li><li><a href="o-nas.html">O&nbsp;nás</a></li><li><a href="kontakt.html">Kontakt</a></li>
+    </ul></nav>
+  </header>
+
+  <section class="hero"><h1>Jak investovat do zlata</h1></section>
+
+  <main>
+    <article class="card">
+      <p>Investování do zlata je dlouhodobá disciplína a vyžaduje trpělivost. Nejprve si stanovte cíl a určete, jaké procento majetku chcete do kovu vložit. Poté si vyberte formu, ať už jde o slitky, mince nebo kombinaci obou možností. Nákupy rozložte v čase, protože tím omezíte riziko špatného načasování. Zvažte i náklady na bezpečné uložení a případné pojištění uložených kusů.</p>
+      <p>Před nákupem sledujte spíše dlouhodobý trend než krátkodobé výkyvy. Nezapomínejte na diverzifikaci a porovnávejte nabídky více prodejců. Pečlivě kontrolujte ryzost a dbejte na ověřené značky s dobrou reputací. Ukládejte doklady a evidujte, kdy a za kolik jste položky pořídili. Zlato není rychlá spekulace, ale stabilní pojistka pro budoucnost.</p>
+
+      <h3>Doporučený checklist</h3>
+      <ul>
+        <li>Stanovit rozpočet a cíl.</li>
+        <li>Rozdělit nákupy v čase.</li>
+        <li>Ověřit prodejce a certifikaci.</li>
+      </ul>
+
+      <ul>
+        <li><a href="produkty.html">Prohlédnout produkty</a></li>
+        <li><a href="o-nas.html">Přečíst o společnosti</a></li>
+        <li><a href="kontakt.html">Spojit se s námi</a></li>
+      </ul>
+    </article>
+
+    <aside class="card">
+      <h3>Rychlá navigace</h3>
+      <ul>
+        <li><a href="produkty.html">Produkty</a></li>
+        <li><a href="o-nas.html">O nás</a></li>
+        <li><a href="index.html">Domů</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>© 2025 Zlaté Dary</footer>
+</div>
+</body>
+</html>
+
+
+
+
+kontakt
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zlaté Dary — Kontakt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><img class="logo" src="images/logo.svg" alt="Logo"><strong>Zlaté Dary</strong></div>
+    <nav><ul>
+      <li><a href="index.html">Domů</a></li><li><a href="produkty.html">Produkty</a></li><li><a href="investice.html">Investice</a></li><li><a href="o-nas.html">O&nbsp;nás</a></li><li><a href="kontakt.html">Kontakt</a></li>
+    </ul></nav>
+  </header>
+
+  <section class="hero"><h1>Kontakt a video</h1></section>
+
+  <main>
+    <article class="card">
+      <p>Máte dotaz k produktům nebo potřebujete poradit s výběrem vhodné gramáže. Napište nám přes formulář nebo využijte uvedené kontaktní údaje níže. V pracovní dny odpovídáme rychle a sdílíme užitečné zdroje k tématu. V případě zájmu poskytujeme orientační kalkulaci nákupu a prodeje. Pro inspiraci přidáváme video, které vysvětluje základy investování.</p>
+      <p>Formulář je pouze ilustrační a nikam data skutečně neodesílá. Slouží k tomu, aby bylo v zadání vidět práci s prvky formuláře. Pole jsou jednoduchá a nevyžadují zvláštní instalaci ani skripty. Pokud chcete, můžete později doplnit vlastní validaci v JavaScriptu. Odkazy vpravo vás dostanou na související části celého webu.</p>
+
+      <form class="card" onsubmit="event.preventDefault();alert('Děkujeme, zpráva byla odeslána (ukázka).');this.reset();">
+        <label>Jméno<br><input required></label>
+        <label>E-mail<br><input type="email" required></label>
+        <label>Zpráva<br><textarea rows="4"></textarea></label>
+        <button class="btn" type="submit">Odeslat</button>
+      </form>
+
+     <div class="card">
+  <h3>Vysvětlující video</h3>
+  <iframe
+    width="100%" height="315"
+    src="https://www.youtube-nocookie.com/embed/pGVBsGb0HHw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+      <ul>
+        <li><a href="index.html">Domů</a></li>
+        <li><a href="produkty.html">Produkty</a></li>
+        <li><a href="investice.html">Investice</a></li>
+      </ul>
+    </article>
+
+    <aside class="card">
+      <h3>Rychlá navigace</h3>
+      <ul>
+        <li><a href="produkty.html">Investiční produkty</a></li>
+        <li><a href="investice.html">Jak investovat</a></li>
+        <li><a href="o-nas.html">O společnosti</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>© 2025 Zlaté Dary</footer>
+</div>
+</body>
+</html>
+
+
+
+
+o nas 
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zlaté Dary — O nás</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><img class="logo" src="images/logo.svg" alt="Logo"><strong>Zlaté Dary</strong></div>
+    <nav><ul>
+      <li><a href="index.html">Domů</a></li><li><a href="produkty.html">Produkty</a></li><li><a href="investice.html">Investice</a></li><li><a href="o-nas.html">O&nbsp;nás</a></li><li><a href="kontakt.html">Kontakt</a></li>
+    </ul></nav>
+  </header>
+
+  <section class="hero"><h1>O společnosti</h1></section>
+
+  <main>
+    <article class="card">
+      <p>Zlaté Dary jsou ukázkový projekt vytvořený pro školní zadání. Tým je fiktivní, ale struktura stránek odpovídá reálnému webu. Cílem je předvést čistý kód, funkční navigaci a práci s médii. Stránky jsou psané jednoduše, aby bylo vše snadno pochopitelné. Design využívá tmavé pozadí a zlatou barvu, která připomíná kov.</p>
+      <p>Veškeré texty jsou originální a připravené tak, aby splnily počet vět. Obrázky jsou vektorové a vznikly pro tuto ukázku přímo ve složce. Všechny odkazy mezi stránkami jsou funkční a vedou na správná místa. Video je vložené přes iframe a dá se nahradit libovolným odkazem. </p>
+
+      <div class="grid grid-3">
+        <figure class="card"><img src="images/coin.svg" alt="Mince"><figcaption>Motiv mince</figcaption></figure>
+        <figure class="card"><img src="images/hero.svg" alt="Slitek"><figcaption>Motiv slitku</figcaption></figure>
+        <figure class="card"><img src="images/coin.svg" alt="Mince"><figcaption>Ikonický tvar</figcaption></figure>
+      </div>
+
+      <ul>
+        <li><a href="index.html">Zpět na hlavní stránku</a></li>
+        <li><a href="produkty.html">Produkty</a></li>
+        <li><a href="kontakt.html">Kontakt</a></li>
+      </ul>
+    </article>
+
+    <aside class="card">
+      <h3>Rychlá navigace</h3>
+      <ul>
+        <li><a href="produkty.html">Produkty</a></li>
+        <li><a href="investice.html">Jak investovat</a></li>
+        <li><a href="kontakt.html">Kontakt</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>© 2025 Zlaté Dary</footer>
+</div>
+</body>
+</html>
+
+
+
+
+produkty 
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zlaté Dary — Produkty</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><img class="logo" src="images/logo.svg" alt="Logo"><strong>Zlaté Dary</strong></div>
+    <nav><ul>
+      <li><a href="index.html">Domů</a></li><li><a href="produkty.html">Produkty</a></li><li><a href="investice.html">Investice</a></li><li><a href="o-nas.html">O&nbsp;nás</a></li><li><a href="kontakt.html">Kontakt</a></li>
+    </ul></nav>
+  </header>
+
+  <section class="hero"><h1>Investiční produkty</h1></section>
+
+  <main>
+    <article class="card">
+      <p>Nabízíme tři základní typy produktů, které jsou vhodné pro různé rozpočty. Slitky jsou kompaktní a snadno se ukládají do trezoru nebo bezpečné schránky. Mince mají i sběratelský rozměr a jejich design bývá propracovaný. Ceny v této ukázce jsou fiktivní a slouží pouze k naplnění cvičení. Pro lepší přehled najdete níže jednoduchý seznam s hlavními položkami.</p>
+      <p>Nejčastěji se kupují menší gramáže, protože se snáze prodávají. Větší kusy bývají cenově výhodnější, ale hůř se po kouscích směňují. Rozumné je nakupovat postupně a držet se vlastního finančního plánu. Pozor si dejte na původ zboží a požadujte certifikát pravosti. Fotografie níže jsou pouze ilustrace a ukazují základní tvary kovu.</p>
+
+      <ol>
+        <li>Slitek 1 g — lehce dostupná varianta.</li>
+        <li>Slitek 5 g — kompromis mezi cenou a skladností.</li>
+        <li>Mince 1 oz — oblíbená mezi investory i sběrateli.</li>
+      </ol>
+
+      <div class="grid grid-3">
+        <figure class="card"><img src="images/hero.svg" alt="Slitek 1 g"><figcaption>Slitek 1 g</figcaption></figure>
+        <figure class="card"><img src="images/hero.svg" alt="Slitek 5 g"><figcaption>Slitek 5 g</figcaption></figure>
+        <figure class="card"><img src="images/coin.svg" alt="Mince 1 oz"><figcaption>Mince 1 oz</figcaption></figure>
+      </div>
+
+      <ul>
+        <li><a href="investice.html">Jak investovat</a></li>
+        <li><a href="o-nas.html">O nás</a></li>
+        <li><a href="kontakt.html">Kontakt</a></li>
+      </ul>
+    </article>
+
+    <aside class="card">
+      <h3>Rychlá navigace</h3>
+      <ul>
+        <li><a href="investice.html">Jak investovat</a></li>
+        <li><a href="o-nas.html">O společnosti</a></li>
+        <li><a href="index.html">Hlavní stránka</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>© 2025 Zlaté Dary</footer>
+</div>
+</body>
+</html>

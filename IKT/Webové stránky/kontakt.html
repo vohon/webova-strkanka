@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zlaté Dary — Kontakt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><img class="logo" src="images/logo.svg" alt="Logo"><strong>Zlaté Dary</strong></div>
+    <nav><ul>
+      <li><a href="index.html">Domů</a></li><li><a href="produkty.html">Produkty</a></li><li><a href="investice.html">Investice</a></li><li><a href="o-nas.html">O&nbsp;nás</a></li><li><a href="kontakt.html">Kontakt</a></li>
+    </ul></nav>
+  </header>
+
+  <section class="hero"><h1>Kontakt a video</h1></section>
+
+  <main>
+    <article class="card">
+      <p>Máte dotaz k produktům nebo potřebujete poradit s výběrem vhodné gramáže. Napište nám přes formulář nebo využijte uvedené kontaktní údaje níže. V pracovní dny odpovídáme rychle a sdílíme užitečné zdroje k tématu. V případě zájmu poskytujeme orientační kalkulaci nákupu a prodeje. Pro inspiraci přidáváme video, které vysvětluje základy investování.</p>
+      <p>Formulář je pouze ilustrační a nikam data skutečně neodesílá. Slouží k tomu, aby bylo v zadání vidět práci s prvky formuláře. Pole jsou jednoduchá a nevyžadují zvláštní instalaci ani skripty. Pokud chcete, můžete později doplnit vlastní validaci v JavaScriptu. Odkazy vpravo vás dostanou na související části celého webu.</p>
+
+      <form class="card" onsubmit="event.preventDefault();alert('Děkujeme, zpráva byla odeslána (ukázka).');this.reset();">
+        <label>Jméno<br><input required></label>
+        <label>E-mail<br><input type="email" required></label>
+        <label>Zpráva<br><textarea rows="4"></textarea></label>
+        <button class="btn" type="submit">Odeslat</button>
+      </form>
+
+     <div class="card">
+  <h3>Vysvětlující video</h3>
+  <iframe
+    width="100%" height="315"
+    src="https://www.youtube-nocookie.com/embed/pGVBsGb0HHw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+      <ul>
+        <li><a href="index.html">Domů</a></li>
+        <li><a href="produkty.html">Produkty</a></li>
+        <li><a href="investice.html">Investice</a></li>
+      </ul>
+    </article>
+
+    <aside class="card">
+      <h3>Rychlá navigace</h3>
+      <ul>
+        <li><a href="produkty.html">Investiční produkty</a></li>
+        <li><a href="investice.html">Jak investovat</a></li>
+        <li><a href="o-nas.html">O společnosti</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>© 2025 Zlaté Dary</footer>
+</div>
+</body>
+</html>
