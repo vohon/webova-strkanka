@@ -1,1 +1,1 @@
-# webova-strkanka
+# webova-stranka
